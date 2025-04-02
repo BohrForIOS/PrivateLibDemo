@@ -1,0 +1,22 @@
+{
+  "name": "DeviceHelper",
+  "version": "0.1.0",
+  "summary": "A short description of DeviceHelper.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/bo.jiang/DeviceHelper",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "bo.jiang": "bo.jiang@kunlun-inc.com"
+  },
+  "source": {
+    "git": "https://github.com/bo.jiang/DeviceHelper.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "DeviceHelper/Classes/**/*"
+}
